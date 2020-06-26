@@ -82,6 +82,7 @@ class _MyHeaderState extends State<MyHeader>{
                       ),
                     ),
                   ),
+                  Container(), // Dr.Corona and the menu will NOT show up without this line
                 ],
               ),
             ),
